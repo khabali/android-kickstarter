@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<io.github.khabali.android.app.main.ScrollChildSwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/refresh_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/tasksContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true"
+        android:orientation="vertical">
+
+
+    </RelativeLayout>
+</io.github.khabali.android.app.main.ScrollChildSwipeRefreshLayout>
+
